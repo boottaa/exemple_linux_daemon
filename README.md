@@ -1,5 +1,7 @@
 # exemple_linux_daemon
 
+#working in ubuntu
+
 Create a new script file at /etc/init/myphpworker.conf. Here is an example:
 ################################################################
 # Info
